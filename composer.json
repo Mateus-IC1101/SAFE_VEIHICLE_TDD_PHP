@@ -1,0 +1,19 @@
+{
+    "name": "mateus/test_phpunit_php",
+    "description": "Test using phpunit to developer",
+    "require": {
+        "phpunit/phpunit": "^10.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mateus\\TestPhpunitPhp\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mateus-IC1101",
+            "email": "mateus.dolglas6@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
