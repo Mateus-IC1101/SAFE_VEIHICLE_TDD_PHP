@@ -9,6 +9,11 @@
             "Mateus\\TestPhpunitPhp\\": "app/"
         }
     },
+    "autoload-dev": {
+        "psr-4": {
+            "test\\": "test/"
+        }
+    },
     "authors": [
         {
             "name": "Mateus-IC1101",
